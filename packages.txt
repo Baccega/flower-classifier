@@ -1,0 +1,9 @@
+jupyter
+notebook
+numpy
+pandas
+matplotlib
+scipy
+pytorch
+torchvision 
+torchaudio
