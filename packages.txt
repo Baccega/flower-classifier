@@ -10,3 +10,4 @@ torchaudio
 scikit-image
 tqdm
 tabulate
+seaborn

@@ -1,6 +1,8 @@
 .DS_Store
 .vscode
 .conda_environment
+model.pt
+model_parameters.txt
 
 assets/
 data/
